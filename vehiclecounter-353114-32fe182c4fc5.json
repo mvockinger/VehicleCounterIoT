@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "vehiclecounter-353114",
+  "private_key_id": "32fe182c4fc523a2f2dc29522b6e5119ab4c9375",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC+RXbcpGzoeMBF\n2bIqMXORgaEBJjlaYzBCPggcHus5yrQhxP/eiDxVzYvQmQWUA6/cgetNYJbOfkx3\nwEDdYq3/ex5n3BR/U/yS+QAXz+FKStdaluXckCReh07kbnXdfZiuiE9hJseJdA8d\niscIFc6qfxwYgK+cnMS1NsQbFsT5S/NR4o6sUTIPWlGNeoGsgmb8zkVj0n9Kan2U\ngWBPtB8eHENhcbSJgAgOp5iAOsT/17HBAFucKSRA8J4DFy2/vaTZc1gYvzgCE8Ga\na9p6ytLUvqUgD1wVmMpNFBVV+/Q1EgBsLN+NYLDL8/qDBfttKhcXJsr+fTIEIouY\nuMt1T3SvAgMBAAECggEAHAiQXIODTPXBimkVKsnyF5L28vw761koL+euJTUu/hWj\nWEMLWdujsWv2jhYwRWBiWvBEsrf+RXqZRJ7YT7tCx0dPXF5czMJwjlejz7Oqo1oH\nLwsticODqu5vortdn/O/I56PZ3vMXrBGq9kZvai3iX+Z1vMFgg3HnlVtK6U9Vzy8\nBbrA4a6gFCW5RsZ6GIJOH9rliyM6R441wGuJErL24ViNaKjXA/rCbyLbERcdndqc\n8cTZ7bKCUqk9Gw8mkwBJ7l+3zYEfhrVkbk6gGOfvqWejbB4Hp8rVS+d9xWFID/MW\n5MsL64hoaFVRTgpzs0m6viOIS9ZcP8zLz55yTs2rZQKBgQDwwT0TvoKEsIk6aJA7\nnSDhxC/wM81lMpNNtrToiy7Bn6m432VgVu27MLhldyDvJj9iaYMJ0yWUN/6Yo0iz\n2loTijYxTotpwD041lCtkIF/gZVYbsM0oRMuldnqTT/KDQv7qebJG/W5ReO+Zr9G\nhYpSa89H2HblTHE0amDl+SLwdQKBgQDKUdyq2PbEGPvVvy4YkuqWGddj6hKlx6Le\npp09j+kPD9Nv98LoJFTXnAVnEDOQjBRkxXkcrM5p1tbwtW48nOTrWbPzACzFLl3k\n9liF/wpWwgz1Ob7DxMDcfP1HDoo0FWPa0/6Zl/083pdnrJgtcRj4HIVNEirCyDw9\nqR2jIGWsEwKBgD2mXguGR0nPIvTP/c8mJ1tor5Xkzf3R+6J03NKHgYuXZRCwM/d9\nixbaHP3uiYJz2ttKhYGojgDsbceMWHuluFc0lzf9EvobfhHl33bygBa0ihfBFT+O\n16igOtMiwOjuelkRYsWw4TV2TiFdkjFu1MLSVJvjNF73Oi3f57w8FdRZAoGAJEB8\n2MQdm0+auFcUTGTu0cx5krabdscJwPl7zU8fBIriaPqtGul/pk6XjTsS8kCXWuMj\na2bvaXmMc/8ebI/0WNNu8gjC/OXs/xzBCemEEb2dkscxDmUP5bIjs/q/+ssmZEx+\nH0ljn+eGm5YKgoH0Zmi93ex2awZz/NxzqgohDa8CgYEAiqXGtgwvJeGO57ALwh/P\n+SRbxJpwQg8kqBtcPuMzZKsKvXlMz8woplxezoCBi+TsWrnR7RtifMqsUjXnaPCr\nV0U7bljEHr42/3O7UsAErYYk2jqTFJVa4k2+Ro5ioY8S64sQBdr2AzFcE2EhU1j7\nbCUtluptpSnI7Bo/mcNp1cA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "vehiclecounter@vehiclecounter-353114.iam.gserviceaccount.com",
+  "client_id": "100774000787115147335",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/vehiclecounter%40vehiclecounter-353114.iam.gserviceaccount.com"
+}
